@@ -1,0 +1,60 @@
+{
+    "nonkopi": [
+        {
+            "foto": "images/produk/es_teh.jpeg",
+            "nama": "Es Teh",
+            "size": "250 Ml",
+            "harga": "13.000",
+            "link": "https://images.app.goo.gl/SpgknpuxWRsHcoLEA"
+        },
+        {
+            "foto": "images/produk/kentang_goreng.jpeg",
+            "nama": "Kentang Goreng",
+            "size": "250 Ml",
+            "harga": "15.000",
+            "link": "https://images.app.goo.gl/TyUZxaZVyjvLZ1mV8"
+        },
+        {
+            "foto": "images/produk/sosis_bakar.jpeg",
+            "nama": "Sosis Bakar",
+            "size": "250 Ml",
+            "harga": "15.000",
+            "link": "https://images.app.goo.gl/YccMfawWQkyWfuSB8"
+        },
+        {
+            "foto": "images/produk/jus_nanas.jpeg",
+            "nama": "Jus Nanas",
+            "size": "250 Ml",
+            "harga": "15.000",
+            "link": "https://images.app.goo.gl/LkbQ2o6kF7Xwdmtr6"
+        },
+        {
+            "foto": "images/produk/jus_alpukat.jpeg",
+            "nama": "Jus Alpukat",
+            "size": "125 Ml",
+            "harga": "10.000",
+            "link": "https://images.app.goo.gl/9MZHhRy5CUK1haaq7"
+        },
+        {
+            "foto": "images/produk/susu_cokelat.jpeg",
+            "nama": "Susu Cokelat",
+            "size": "120 Ml",
+            "harga": "15.000",
+            "link": "https://images.app.goo.gl/KHgt14JwMPuLE2Bf7"
+        },
+        {
+            "foto": "images/produk/jus_jeruk.jpeg",
+            "nama": "Jus Jeruk",
+            "size": "250 Ml",
+            "harga": "15.000",
+            "link": "https://images.app.goo.gl/5kBAyAEpC3RPtv2XA"
+        },
+        {
+            "foto": "images/produk/es_campur.jpeg",
+            "nama": "Es Campur",
+            "size": "600 Ml",
+            "harga": "5.000",
+            "link": "https://images.app.goo.gl/UXZxJZCuhDd22jcE7"
+        }
+    ]
+}
